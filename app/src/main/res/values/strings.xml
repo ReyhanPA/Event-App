@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyFundamentalSubmission</string>
+    <string name="title_home">Home</string>
+    <string name="title_finished">Finished</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_setting">Setting</string>
+    <string name="event_name">Event Name</string>
+    <string name="event_summary">Event Summary</string>
+    <string name="detail_name">Detail Name</string>
+    <string name="detail_owner">Detail Owner</string>
+    <string name="register">Register</string>
+    <string name="penyelenggara">Penyelenggara</string>
+    <string name="waktu_acara">Waktu Acara</string>
+    <string name="sisa_kuota">Sisa Kuota</string>
+    <string name="deskripsi_acara">Deskripsi Acara</string>
+    <string name="menu_1">Search</string>
+    <string name="title_upcoming_events">Upcoming Events</string>
+    <string name="title_finished_events">Finished Events</string>
+    <string name="event_time_format">%1$s - %2$s</string>
+    <string name="event_quota_info_format">Kuota: %1$d, Terdaftar: %2$d, Sisa: %3$d</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="daily_reminder">Daily Reminder</string>
+</resources>
